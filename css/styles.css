@@ -60,6 +60,10 @@ footer a,
     color: #2e2f42;
 }
 
+.top-position {
+    display: flex;
+}
+
 .logo-footer,
 .text-down {
     color: #F4F4FD;
@@ -100,6 +104,7 @@ footer a,
 
 .top {
     background-color: #ffff;
+    border-bottom: 1px solid #e7e9fc
 }
 
 .hero-banner-button {
