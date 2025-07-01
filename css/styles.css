@@ -48,6 +48,7 @@ footer a,
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    margin: 76px;
 }
 
 .logo-studio {
@@ -66,6 +67,18 @@ footer a,
     align-items: center;
 }
 
+.container {
+    width: 1158px;
+    padding: 0 15px;
+}
+
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
 .logo-footer,
 .text-down {
     color: #F4F4FD;
@@ -81,10 +94,13 @@ footer a,
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
+    display: flex;
+    gap: 40px;
 }
 
 .top-menu-studio {
     letter-spacing: 0.02em;
+    padding: 24px 0;
 }
 
 .contacts {
@@ -92,6 +108,11 @@ footer a,
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
+}
+
+.contacts-list {
+    display: flex;
+    gap: 40px;
 }
 
 .hero-banner-name {
