@@ -217,6 +217,7 @@ footer a,
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    padding: 120px 0;
 }
 
 .team-title {
@@ -226,6 +227,7 @@ footer a,
     line-height: 1.11;
     text-align: center;
     text-transform: capitalize;
+    margin-bottom: 72px;
 }
 
 .team-title {
