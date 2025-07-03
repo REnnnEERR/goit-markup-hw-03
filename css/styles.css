@@ -206,7 +206,7 @@ footer a,
     gap: 24px;
 }
 
-.benefits-list-container {
+.visually-hidden {
     width: calc((100% - 3 * 24px) / 4);
 }
 
