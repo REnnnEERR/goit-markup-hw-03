@@ -228,6 +228,7 @@ footer a,
     text-align: center;
     text-transform: capitalize;
     margin-bottom: 72px;
+
 }
 
 .team-title {
@@ -261,8 +262,14 @@ footer a,
     text-align: center;
 }
 
+.portfolio {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
 .portfolio h2 {
     background-color: #E7E9FC;
+
 }
 
 .top-menu :hover {
