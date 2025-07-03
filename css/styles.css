@@ -293,6 +293,10 @@ footer a,
 
 }
 
+.down {
+    padding: 100px 0
+}
+
 .top-menu :hover {
     color: #404BBF;
 }
@@ -323,12 +327,16 @@ footer a,
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    display: inline-block;
+    margin-bottom: 16px;
+
 }
 
 .text-down {
     color: #F4F4FD;
     letter-spacing: 0.02em;
     line-height: 1.5;
+    max-width: 264px;
 }
 
 .logo-studio {
