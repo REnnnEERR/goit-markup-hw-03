@@ -206,8 +206,8 @@ footer a,
     gap: 24px;
 }
 
-.benefits-title {
-    width: calc((100% - 3 * 24px) / 4);
+.benefits-list-container {
+    width: calc((100% - 72px) / 4);
 }
 
 .team {
